@@ -1,0 +1,12 @@
+{
+  "name": "Mangapark",
+  "author": "PYTHONFLASH",
+  "version": 1,
+  "sources": [
+    {
+      "id": "mangapark",
+      "name": "MangaPark",
+      "url": "https://mangapark.io"
+    }
+  ]
+}
