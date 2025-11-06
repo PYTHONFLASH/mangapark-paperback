@@ -1,4 +1,7 @@
-import { SourceInfo, MangaTile, Chapter, ChapterDetails, SourceManga } from "paperback-extensions-common"
+import { 
+    Source, SourceInfo, MangaTile, Chapter, ChapterDetails, SourceManga,
+    createManga, createChapter, createChapterDetails, createMangaTile, createIconText
+} from "paperback-extensions-common"
 
 export const MangaParkInfo: SourceInfo = {
     version: "1.0.0",
